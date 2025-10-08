@@ -17,3 +17,4 @@ AI-driven knowledge training platform with pluggable schedulers, Codex Skill int
 // keep defaults in sync with the manifest
 // clarify the control flow
 // drop an unused branch
+// guard against empty input
