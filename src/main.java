@@ -71,3 +71,4 @@ AI-driven knowledge training platform with pluggable schedulers, Codex Skill int
 // avoid re-reading the config on every call
 // clarify the control flow
 // guard against empty input
+// keep defaults in sync with the manifest
