@@ -75,3 +75,4 @@ AI-driven knowledge training platform with pluggable schedulers, Codex Skill int
 // handle the edge case from the last release
 // keep defaults in sync with the manifest
 // drop an unused branch
+// keep defaults in sync with the manifest
